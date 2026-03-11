@@ -1,25 +1,35 @@
-# Hi 👋 I'm Sanjay
+<h1 align="center">Hi 👋, I'm Sanjay</h1>
+<h3 align="center">AI & ML Student | Machine Learning Engineer</h3>
 
-🎓 Computer Science Student  
-🏫 Saveetha Engineering College  
-💻 Passionate about Programming and Technology  
+<p align="center">
+🎓 B.Tech AI & ML Student at Saveetha Engineering College  
+🤖 Passionate about Machine Learning, AI and Data Science  
+🚀 Building intelligent systems and learning new technologies
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing Engineering
-- 🌱 Learning **Java, SQL, and Data Structures**
-- 💡 Interested in **Software Development & Problem Solving**
-- 🔧 Improving my coding skills every day
+- 🎓 Studying **Artificial Intelligence & Machine Learning**
+- 🤖 Interested in **Machine Learning, Deep Learning, and AI**
+- 💻 Love working with **Python, ML models, and data**
+- 📚 Constantly learning new AI technologies
+- 🎯 Goal: Become a professional **ML Engineer**
 
 ---
 
-## 🛠 Skills
-- Java
-- SQL
-- C Programming
-- Git & GitHub
-- Data Structures (Learning)
+## 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,mysql" />
+</p>
+
+### 🤖 Machine Learning Tools
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
@@ -33,10 +43,18 @@
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sanjayc2006
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+## 📈 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
-⭐ *Always learning, always building.*
+## 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/sanjayc2006">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+⭐ *"Turning data into intelligence."*
