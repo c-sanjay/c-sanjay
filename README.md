@@ -78,6 +78,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Coffee%20and%20Python-blue" />
-</p>
