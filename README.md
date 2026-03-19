@@ -1,135 +1,75 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= 3D NEON BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanjay%20C&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:000000&height=250&section=header&text=Sanjay%20C&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanjay C</h1>
-<h3 align="center">🌙 AI & ML Student | Aspiring Machine Learning Engineer</h3>
-
-<!-- Typing Animation -->
+<!-- ================= MATRIX RAIN EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Real-World+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=01010101010101010101;Entering+the+Matrix...;AI+%26+ML+Engineer;Building+Intelligent+Systems" />
 </p>
+
+<h1 align="center">👾 Hi, I'm Sanjay C</h1>
+<h3 align="center">🌙 Machine Learning Engineer | AI Developer</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 AI PROFILE (Interactive Style)
 
-🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
-🏫 Saveetha Engineering College, Chennai (CGPA: 8.35)  
+```yaml
+Name: Sanjay C
+Role: Machine Learning Engineer
+Education: B.Tech AI & ML (CGPA: 8.35)
+College: Saveetha Engineering College
+Focus: AI, ML, Data Science
+Status: Learning | Building | Growing 🚀
+⚡ LIVE STATUS (Dynamic Feel)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="150"/> </p>
+🧠 FEATURED PROJECT (🔥 STAR PROJECT)
+📚 BookVision RAG Chatbot
 
-💡 I am a motivated and detail-oriented engineering student with a strong foundation in:
-- 🧠 Machine Learning & Data Science  
-- 📊 Data Analysis & Visualization  
-- 💻 Programming (Python, C, Java)  
+🔗 https://github.com/c-sanjay/BookVision-RAG-Chatbot
 
-⚡ Passionate about solving real-world problems using AI and continuously learning emerging technologies.
+FastAPI-based RAG chatbot for PDFs & images
 
-🎯 **Career Goal:** To become a skilled Machine Learning Engineer and contribute to impactful AI-driven solutions.
+Async ingestion with background processing
 
----
+Embedding-based semantic search
 
-## 🧠 Featured Projects (Placement Ready)
+Context-aware intelligent responses
 
-### 📚 BookVision RAG Chatbot
-🔗 https://github.com/c-sanjay/BookVision-RAG-Chatbot  
+Book summarization & analytics APIs
 
-- 🤖 Built a **FastAPI-based RAG chatbot** for querying digitized books (PDFs & images)  
-- ⚡ Implemented **async PDF ingestion** with background processing  
-- 🔍 Designed **embedding-based search pipeline** with filtering & caching  
-- 🧠 Enabled **context-aware Q&A system using LLM concepts**  
-- 📊 Added **book summarization & analytics APIs**  
+🚀 OTHER PROJECTS
+🐶 AI Classifier (CNN - PyTorch)
 
----
+🔗 https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
 
-### 🐶 AI Classifier (Cats-Dogs-Pandas)
-🔗 https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch  
+Deep learning image classifier
 
-- 🧠 Developed CNN-based image classifier using **PyTorch**  
-- 🖼️ Applied **data preprocessing & augmentation techniques**  
-- ⚙️ Built and trained deep learning model for multi-class classification  
-- 📈 Evaluated performance using validation techniques  
-- 🚀 Improved model accuracy through tuning  
+Data preprocessing & augmentation
 
----
+CNN architecture design
 
-### 📧 Spam Mail Detection (SVM)
-🔗 https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection  
+Model training & evaluation
 
-- 📊 Built spam detection system using **SVM (SVC)**  
-- 🧹 Performed **data preprocessing & EDA**  
-- 🔢 Converted text using **CountVectorizer**  
-- ⚙️ Trained and tested classification model  
-- 🎯 Predicted spam vs non-spam emails  
+📧 Spam Mail Detection (SVM)
 
----
+🔗 https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection
 
-## 🛠️ Tech Stack
+SVM-based spam classifier
 
-### 💻 Programming & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-</p>
+Text vectorization (CountVectorizer)
 
-### 🤖 Machine Learning & Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-00F7FF?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-00F7FF?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/SciPy-111111?style=for-the-badge"/>
-</p>
+Data preprocessing & analysis
 
-### 📊 Visualization & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter"/>
-</p>
+Prediction system
 
-### ⚙️ Core Skills
-- Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOP)  
-- Data Cleaning & Exploratory Data Analysis (EDA)  
-- Model Training & Evaluation  
-- Statistics & Analytical Thinking  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📈 Contribution Graph (Snake Animation 🐍)
-
-<p align="center">
-  <img src="https://github.com/c-sanjay/c-sanjay/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjayc2006">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjay-00F7FF?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-## ⚡ Motto
-
-<p align="center">
-  <i>🌙 "Turning data into intelligence with AI."</i>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+⚙️ TECH STACK (NEON STYLE)
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF"/> </p>
+🐍 MATRIX SNAKE ANIMATION
+<p align="center"> <img src="https://github.com/c-sanjay/c-sanjay/blob/output/github-contribution-grid-snake.svg" /> </p>
+🌐 CONNECT
+<p align="center"> <a href="https://www.linkedin.com/in/sanjayc2006"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> </p>
+⚡ AI MOTTO (Animated)
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Data+Into+Intelligence;Building+AI+That+Matters;Welcome+to+the+Future+🚀" /> </p>
+<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:000000&height=120&section=footer"/> </p> ```
