@@ -17,10 +17,11 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
-- 🎓 **B.Tech** in Artificial Intelligence & Machine Learning  
-- 🏫 **Saveetha Engineering College**, Chennai (CGPA: **8.35**)  
-- 💡 **ML Engineer** specialized in building scalable AI systems  
-- 🔍 Expert in **End-to-End Model Deployment and RAG Pipelines** - 🚀 Always learning, always building.
+- 🎓 **B.Tech in AI & ML** | Saveetha Engineering College (CGPA: 8.35)
+- 🚀 **ML Engineer** passionate about bridging the gap between raw data and actionable AI solutions.
+- 🛠 **Focus:** Building scalable RAG pipelines, deploying deep learning models, and optimizing data engineering workflows.
+- 📈 **Goal:** Creating intelligent, user-centric systems that solve real-world problems.
+- 🎯 **Currently open for:** Collaborative projects, internships, and networking opportunities in the AI/ML space.
 
 ---
 
@@ -41,17 +42,17 @@
 
 ## 🚀 Featured Projects
 
-### 🐾 [AI Classifier (Cats, Dogs & Pandas)](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch)
-> *Deep Learning | PyTorch | Computer Vision*
-- **The Tech:** Custom CNN architecture with Data Augmentation.
+### 🐾 [AI Classifier](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch)
+*Computer Vision | PyTorch | CNN*
+> A deep learning model utilizing data augmentation and custom CNN architecture to achieve robust classification accuracy.
 
 ### 📚 [BookVision – RAG Chatbot](https://github.com/c-sanjay/BookVision-RAG-Chatbot)
-> *Generative AI | FastAPI | LangChain*
-- **The Tech:** PDF Ingestion -> Vector Embeddings -> LLM Retrieval.
+*Generative AI | LangChain | FastAPI*
+> A sophisticated RAG pipeline that converts static PDF documentation into an interactive, queryable knowledge base.
 
 ### 📧 [Spam Mail Detection](https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection)
-> *NLP | Scikit-Learn | SVM*
-- **The Tech:** CountVectorizer pipeline with Support Vector Machine (SVC).
+*NLP | Scikit-Learn | SVM*
+> A high-performance text classification pipeline leveraging `CountVectorizer` and Support Vector Machines for real-time spam filtering.
 
 ---
 
@@ -75,6 +76,3 @@
 <a href="https://www.linkedin.com/in/sanjayc2006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/c-sanjay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
