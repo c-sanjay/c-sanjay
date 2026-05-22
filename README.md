@@ -1,78 +1,199 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=100&lines=SANJAY+C;ML+Engineer;AI+Developer" alt="Sanjay C Typing" />
-</p>
+```md
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/c-sanjay">
-    <img src="https://img.shields.io/github/followers/c-sanjay?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" />
-  </a>
-  <a href="https://github.com/c-sanjay">
-    <img src="https://img.shields.io/github/stars/c-sanjay?label=Stars&style=for-the-badge&color=C9D1D9&logo=github" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SANJAY%20C&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:58a6ff&fontColor=ffffff&fontSize=55&desc=ML%20Engineer%20%7C%20AI%20Developer%20%7C%20Data%20Enthusiast&descAlignY=65&animation=fadeIn" width="100%" />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Machine+Learning+Engineer;AI+Developer;Deep+Learning+Explorer;Building+Intelligent+Systems" />
 
-## 🧠 About Me
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<a href="https://github.com/c-sanjay">
+<img src="https://img.shields.io/github/followers/c-sanjay?style=for-the-badge&logo=github&label=Followers&color=1f6feb"/>
+</a>
 
-- 🎓 **B.Tech in AI & ML** | Saveetha Engineering College (CGPA: 8.35)
-- 🚀 **ML Engineer** passionate about bridging the gap between raw data and actionable AI solutions.
-- 🛠 **Focus:** Building scalable RAG pipelines, deploying deep learning models, and optimizing data engineering workflows.
-- 📈 **Goal:** Creating intelligent, user-centric systems that solve real-world problems.
-- 🎯 **Currently open for:** Collaborative projects, internships, and networking opportunities in the AI/ML space.
+<a href="https://github.com/c-sanjay">
+<img src="https://img.shields.io/github/stars/c-sanjay?style=for-the-badge&logo=github&label=Stars&color=58a6ff"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=c-sanjay&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,mysql,sklearn,pytorch,fastapi,git,github,matplotlib,numpy,pandas&perline=6&theme=dark" />
-  </a>
-</p>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🤖 Specializations
-- **ML Engineering:** Model Deployment, Supervised Learning, CNNs, SVMs
-- **Data Engineering:** SQL Optimization, Feature Pipelines, Data Cleaning
-- **Core CS:** DSA, OOPS, Statistical Analysis
+🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
+🏫 Saveetha Engineering College  
+📊 CGPA: **8.35**
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 What I Do
 
-### 🐾 [AI Classifier](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch)
-*Computer Vision | PyTorch | CNN*
-> A deep learning model utilizing data augmentation and custom CNN architecture to achieve robust classification accuracy.
-
-### 📚 [BookVision – RAG Chatbot](https://github.com/c-sanjay/BookVision-RAG-Chatbot)
-*Generative AI | LangChain | FastAPI*
-> A sophisticated RAG pipeline that converts static PDF documentation into an interactive, queryable knowledge base.
-
-### 📧 [Spam Mail Detection](https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection)
-*NLP | Scikit-Learn | SVM*
-> A high-performance text classification pipeline leveraging `CountVectorizer` and Support Vector Machines for real-time spam filtering.
+- 🤖 Develop intelligent AI/ML applications
+- 📚 Build scalable RAG pipelines & chatbots
+- 🧠 Train and deploy Deep Learning models
+- ⚡ Optimize data workflows & SQL pipelines
+- 🔍 Explore Computer Vision & NLP systems
 
 ---
 
-## 📊 Performance Metrics
+### 🎯 Career Objective
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-sanjay&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&curr_streak_num=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="60%" />
-</p>
+Passionate about building impactful AI systems that transform raw data into meaningful user experiences and business solutions.
 
 ---
 
-## 📫 Connect With Me
+# 🛠️ Tech Arsenal
 
-<p align="center">
-<a href="mailto:sanjaychinnadurai854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sanjayc2006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/c-sanjay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,git,github,fastapi,pytorch,sklearn,tensorflow,opencv,numpy,pandas,matplotlib,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🧠 Core Specializations
+
+<div align="center">
+
+| Domain | Skills |
+|---|---|
+| 🤖 Machine Learning | CNN, SVM, Classification, Model Deployment |
+| 📊 Data Engineering | SQL Optimization, ETL, Data Cleaning |
+| 👁️ Computer Vision | OpenCV, Image Processing, CNN Models |
+| 🧾 NLP | Spam Detection, Text Vectorization |
+| ⚡ Backend | FastAPI, API Development |
+| 💻 Core CS | DSA, OOPS, Statistical Analysis |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐾 AI Classifier
+#### *PyTorch • CNN • Deep Learning*
+
+A custom CNN-based deep learning model designed for robust image classification using advanced augmentation techniques.
+
+🔗 [Repository](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch)
+
+</td>
+
+<td width="50%">
+
+### 📚 BookVision – RAG Chatbot
+#### *LangChain • FastAPI • Generative AI*
+
+Transforms PDF documents into an intelligent conversational knowledge base using Retrieval-Augmented Generation.
+
+🔗 [Repository](https://github.com/c-sanjay/BookVision-RAG-Chatbot)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📧 Spam Mail Detection
+#### *SVM • NLP • Scikit-Learn*
+
+High-performance spam classification system using CountVectorizer and Support Vector Machines.
+
+🔗 [Repository](https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection)
+
+</td>
+
+<td width="50%">
+
+### 🔥 More Projects Coming Soon
+#### *AI • ML • Data Science*
+
+Currently building advanced AI solutions and experimenting with scalable ML systems.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=c-sanjay&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+</div>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sanjay&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=c-sanjay&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sanjaychinnadurai854@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanjayc2006">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/c-sanjay">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building AI solutions that create real-world impact."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer"/>
+
+```
