@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SANJAY%20C&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:58a6ff&fontColor=ffffff&fontSize=55&desc=ML%20Engineer%20%7C%20AI%20Developer%20%7C%20Data%20Enthusiast&descAlignY=65&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Machine+Learning+Engineer;AI+Developer;Deep+Learning+Explorer;Building+Intelligent+Systems" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/c-sanjay">
 <img src="https://img.shields.io/github/followers/c-sanjay?style=for-the-badge&logo=github&label=Followers&color=1f6feb"/>
@@ -23,7 +22,7 @@
 
 # 💫 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
 🏫 Saveetha Engineering College  
@@ -36,7 +35,7 @@
 - 🤖 Develop intelligent AI/ML applications
 - 📚 Build scalable RAG pipelines & chatbots
 - 🧠 Train and deploy Deep Learning models
-- ⚡ Optimize data workflows & SQL pipelines
+- ⚡ Optimize SQL & Data Engineering workflows
 - 🔍 Explore Computer Vision & NLP systems
 
 ---
@@ -44,6 +43,8 @@
 ### 🎯 Career Objective
 
 Passionate about building impactful AI systems that transform raw data into meaningful user experiences and business solutions.
+
+<br clear="right"/>
 
 ---
 
@@ -80,49 +81,69 @@ Passionate about building impactful AI systems that transform raw data into mean
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🐾 AI Classifier
-#### *PyTorch • CNN • Deep Learning*
+## 🐾 AI Classifier
+
+### *PyTorch • CNN • Deep Learning*
 
 A custom CNN-based deep learning model designed for robust image classification using advanced augmentation techniques.
 
-🔗 [Repository](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch)
+<br/>
+
+<a href="https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch">
+<img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 📚 BookVision – RAG Chatbot
-#### *LangChain • FastAPI • Generative AI*
+## 📚 BookVision – RAG Chatbot
+
+### *LangChain • FastAPI • Generative AI*
 
 Transforms PDF documents into an intelligent conversational knowledge base using Retrieval-Augmented Generation.
 
-🔗 [Repository](https://github.com/c-sanjay/BookVision-RAG-Chatbot)
+<br/>
+
+<a href="https://github.com/c-sanjay/BookVision-RAG-Chatbot">
+<img src="https://img.shields.io/badge/View_Project-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 📧 Spam Mail Detection
-#### *SVM • NLP • Scikit-Learn*
+## 📧 Spam Mail Detection
+
+### *SVM • NLP • Scikit-Learn*
 
 High-performance spam classification system using CountVectorizer and Support Vector Machines.
 
-🔗 [Repository](https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection)
+<br/>
+
+<a href="https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection">
+<img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🔥 More Projects Coming Soon
-#### *AI • ML • Data Science*
+## 🔥 More Projects Coming Soon
+
+### *AI • ML • Data Science*
 
 Currently building advanced AI solutions and experimenting with scalable ML systems.
 
 </td>
+
 </tr>
 </table>
 
@@ -139,6 +160,8 @@ Currently building advanced AI solutions and experimenting with scalable ML syst
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=c-sanjay&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -190,10 +213,8 @@ Currently building advanced AI solutions and experimenting with scalable ML syst
 
 <div align="center">
 
-### ⚡ "Building AI solutions that create real-world impact."
+## ⚡ "Building AI solutions that create real-world impact."
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer"/>
-
-```
