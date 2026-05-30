@@ -1,220 +1,214 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay+C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+ML+Engineer+%7C+Turning+Data+into+Decisions&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SANJAY%20C&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:58a6ff&fontColor=ffffff&fontSize=55&desc=ML%20Engineer%20%7C%20AI%20Developer%20%7C%20Data%20Enthusiast&descAlignY=65&animation=fadeIn" width="100%" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=c-sanjay&color=70a5fd&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=c-sanjay&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanjayc2006">
+    <img src="https://img.shields.io/badge/LinkedIn-sanjayc2006-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanjaychinnadurai854@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sanjaychinnadurai854-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Machine+Learning+Engineer;AI+Developer;Deep+Learning+Explorer;Building+Intelligent+Systems" />
-
-<br/><br/>
-
-<a href="https://github.com/c-sanjay">
-<img src="https://img.shields.io/github/followers/c-sanjay?style=for-the-badge&logo=github&label=Followers&color=1f6feb"/>
-</a>
-
-<a href="https://github.com/c-sanjay">
-<img src="https://img.shields.io/github/stars/c-sanjay?style=for-the-badge&logo=github&label=Stars&color=58a6ff"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=c-sanjay&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%21+I%27m+Sanjay+C+%F0%9F%91%8B;AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Python+%7C+PyTorch+%7C+Data+Science+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
-🏫 Saveetha Engineering College  
-📊 CGPA: **8.35**
+```python
+class SanjayC:
+    def __init__(self):
+        self.name               = "Sanjay C"
+        self.location           = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.degree             = "B.Tech AI & ML @ Saveetha Engineering College"
+        self.stack              = [
+            "Python", "PyTorch", "Scikit-Learn",
+            "FastAPI", "NumPy", "Pandas", "SQL"
+        ]
+        self.currently_learning = [
+            "Transformers & LLMs",
+            "MLOps & Model Deployment",
+            "Advanced Deep Learning"
+        ]
+        self.fun_fact           = (
+            "I trained a CNN to tell cats, dogs "
+            "& pandas apart — it gets the pandas 🐼"
+        )
 
----
+    def motto(self) -> str:
+        return "Data is the new oil — I'm the refinery ⚗️"
 
-### 🚀 What I Do
-
-- 🤖 Develop intelligent AI/ML applications
-- 📚 Build scalable RAG pipelines & chatbots
-- 🧠 Train and deploy Deep Learning models
-- ⚡ Optimize SQL & Data Engineering workflows
-- 🔍 Explore Computer Vision & NLP systems
-
----
-
-### 🎯 Career Objective
-
-Passionate about building impactful AI systems that transform raw data into meaningful user experiences and business solutions.
+me = SanjayC()
+print(me.motto())
+# Output: Data is the new oil — I'm the refinery ⚗️
+```
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+**Frameworks & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/c-sanjay">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sanjay's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/c-sanjay">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=c-sanjay&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sanjay&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c-sanjay&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+> Currently seeking internship and full-time opportunities in ML / Data Science.
+
+<details>
+<summary><strong>🎓 Saveetha Engineering College — Academic Projects Lead · 2023 – Present · Chennai, India</strong></summary>
+
+> `Python` `PyTorch` `FastAPI` `Scikit-Learn` `NumPy` `Pandas` `SQL`
+
+- Designed and shipped 3 end-to-end ML/AI projects independently, covering deep learning, RAG pipelines, and classical ML.
+- Built a CNN-based image classifier in PyTorch achieving multi-class classification across 3 animal categories with data augmentation.
+- Developed a FastAPI-backed RAG chatbot supporting asynchronous PDF ingestion, embedding search, and low-latency query caching.
+- Applied SVM (SVC) for spam detection, managing the full ML lifecycle from preprocessing to model evaluation.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,git,github,fastapi,pytorch,sklearn,tensorflow,opencv,numpy,pandas,matplotlib,vscode&theme=dark" />
+| Project | Stack | Highlights |
+|---|---|---|
+| [🐾 AI Classifier — Cats·Dogs·Pandas](https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch) | `PyTorch` `CNN` `Python` | Custom CNN architecture · Image augmentation (resize, normalize, flip) · Multi-class classification across 3 animal categories |
+| [📚 BookVision RAG Chatbot](https://github.com/c-sanjay/BookVision-RAG-Chatbot) | `FastAPI` `RAG` `Embeddings` `Python` | Async PDF ingestion pipeline · Embedding search with book_id filtering + caching · Book summarization & analytics APIs |
+| [📧 Spam Mail Detection](https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection) | `SVM` `Scikit-Learn` `CountVectorizer` `Python` | SVC classifier · Text vectorization via CountVectorizer · Full train/test split & evaluation pipeline |
 
 </div>
 
 ---
 
-# 🧠 Core Specializations
+## 🏅 Achievements
 
 <div align="center">
 
-| Domain | Skills |
-|---|---|
-| 🤖 Machine Learning | CNN, SVM, Classification, Model Deployment |
-| 📊 Data Engineering | SQL Optimization, ETL, Data Cleaning |
-| 👁️ Computer Vision | OpenCV, Image Processing, CNN Models |
-| 🧾 NLP | Spam Detection, Text Vectorization |
-| ⚡ Backend | FastAPI, API Development |
-| 💻 Core CS | DSA, OOPS, Statistical Analysis |
+| | Achievement | Details |
+|---|---|---|
+| 🎓 | Academic Excellence | CGPA **8.35 / 10** — B.Tech AI & ML, Saveetha Engineering College |
+| 🤖 | Deep Learning Project | Built CNN image classifier in PyTorch from scratch with data augmentation |
+| 🔍 | RAG System Builder | Designed full async PDF-to-embedding ingestion pipeline with FastAPI |
+| 🛡️ | ML Pipeline Delivery | Trained SVM spam detector end-to-end: preprocessing → vectorization → evaluation |
+| 💻 | Multi-Language Proficiency | Proficient in Python, C, and Java with strong DSA & OOP fundamentals |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🎓 Education
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 🐾 AI Classifier
-
-### *PyTorch • CNN • Deep Learning*
-
-A custom CNN-based deep learning model designed for robust image classification using advanced augmentation techniques.
-
-<br/>
-
-<a href="https://github.com/c-sanjay/AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch">
-<img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 📚 BookVision – RAG Chatbot
-
-### *LangChain • FastAPI • Generative AI*
-
-Transforms PDF documents into an intelligent conversational knowledge base using Retrieval-Augmented Generation.
-
-<br/>
-
-<a href="https://github.com/c-sanjay/BookVision-RAG-Chatbot">
-<img src="https://img.shields.io/badge/View_Project-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📧 Spam Mail Detection
-
-### *SVM • NLP • Scikit-Learn*
-
-High-performance spam classification system using CountVectorizer and Support Vector Machines.
-
-<br/>
-
-<a href="https://github.com/c-sanjay/Implementation-of-SVM-For-Spam-Mail-Detection">
-<img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🔥 More Projects Coming Soon
-
-### *AI • ML • Data Science*
-
-Currently building advanced AI solutions and experimenting with scalable ML systems.
-
-</td>
-
-</tr>
-</table>
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech — Artificial Intelligence & Machine Learning | Saveetha Engineering College, Chennai | 2027 | CGPA 8.35 |
+| Higher Secondary Education | Kurinji Senior Secondary School, Namakkal | 2023 | — |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🌱 Currently Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-sanjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=c-sanjay&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sanjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c-sanjay&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=c-sanjay&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:sanjaychinnadurai854@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sanjayc2006">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/c-sanjay">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+```
+🤗 Transformers     → Attention mechanism, BERT, GPT fine-tuning
+⚙️  MLOps           → Model versioning, CI/CD for ML, Docker, monitoring
+🧠 Advanced DL      → Diffusion models, Vision Transformers (ViT)
+☁️  Cloud for ML    → AWS SageMaker, GCP Vertex AI basics
+🗃️  Vector DBs      → Pinecone, ChromaDB for RAG pipelines
+```
 
 ---
 
 <div align="center">
-
-## ⚡ "Building AI solutions that create real-world impact."
-
+  <i>"Data is the new oil — I'm the refinery ⚗️"</i>
+  <br/><br/>
+  <b>📫 Reach me at:</b> <a href="mailto:sanjaychinnadurai854@gmail.com">sanjaychinnadurai854@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sanjayc2006">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/c-sanjay">GitHub</a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
